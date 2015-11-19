@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/azurelogic/FlexStrap/issues"
   },
-  "homepage": "https://github.com/azurelogic/FlexStrap#readme"
+  "homepage": "https://github.com/azurelogic/FlexStrap#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0"
+  }
 }
